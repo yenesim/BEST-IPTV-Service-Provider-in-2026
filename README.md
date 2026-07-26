@@ -350,7 +350,7 @@ Every provider featured here:
 ---
 
 > ### ⚠️ Important Disclaimer
-> This article is provided for educational purposes only. BestIPTVFinder does not own, operate, host, sell, or distribute any video streaming websites, applications, IPTV services, or add-ons. 
+> This article is provided for educational purposes only. IPTV ROOMS does not own, operate, host, sell, or distribute any video streaming websites, applications, IPTV services, or add-ons. 
 > 
 > Some of the services mentioned may not be verified, and we cannot confirm whether they possess the necessary legal licenses to distribute their content. We do not verify the legality of each app or service in all jurisdictions. It is your responsibility to perform your own due diligence before using any unverified services. Always ensure that you are streaming content that is legally available in your jurisdiction. The end user is solely responsible for all media accessed through such platforms.
 
